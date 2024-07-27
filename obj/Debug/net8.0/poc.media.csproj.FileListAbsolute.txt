@@ -1,0 +1,14 @@
+C:\labs\poc.media\poc.media\bin\Debug\net8.0\poc.media.exe
+C:\labs\poc.media\poc.media\bin\Debug\net8.0\poc.media.deps.json
+C:\labs\poc.media\poc.media\bin\Debug\net8.0\poc.media.runtimeconfig.json
+C:\labs\poc.media\poc.media\bin\Debug\net8.0\poc.media.dll
+C:\labs\poc.media\poc.media\bin\Debug\net8.0\poc.media.pdb
+C:\labs\poc.media\poc.media\obj\Debug\net8.0\poc.media.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\poc.media\poc.media\obj\Debug\net8.0\poc.media.AssemblyInfoInputs.cache
+C:\labs\poc.media\poc.media\obj\Debug\net8.0\poc.media.AssemblyInfo.cs
+C:\labs\poc.media\poc.media\obj\Debug\net8.0\poc.media.csproj.CoreCompileInputs.cache
+C:\labs\poc.media\poc.media\obj\Debug\net8.0\poc.media.dll
+C:\labs\poc.media\poc.media\obj\Debug\net8.0\refint\poc.media.dll
+C:\labs\poc.media\poc.media\obj\Debug\net8.0\poc.media.pdb
+C:\labs\poc.media\poc.media\obj\Debug\net8.0\poc.media.genruntimeconfig.cache
+C:\labs\poc.media\poc.media\obj\Debug\net8.0\ref\poc.media.dll
